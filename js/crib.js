@@ -412,7 +412,7 @@ let dealCards = function() {
 
   // Update API
   fetch('https://alex-nowicki.github.io/data/crib.json', {
-    method: 'POST',
+    method: 'PUT',
     credentials: 'same-origin',
     body: JSON.stringify(currentGameState),
     headers: {
