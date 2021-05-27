@@ -350,7 +350,7 @@ const blankGameState = [
 
 
 
-fetch('https://jsonkeeper.com/b/348B')
+fetch('https://alex-nowicki.github.io/data/crib.json')
   .then(response => response.json())
   .then(data => {
     renderGameState(data);
@@ -411,12 +411,12 @@ let dealCards = function() {
   });
 
   // Update API
-  fetch('https://jsonkeeper.com/b/348B', {
+  fetch('https://alex-nowicki.github.io/data/crib.json', {
     method: 'PUT',
     mode: 'same-origin',
     body: JSON.stringify(currentGameState),
     headers: {
-        'Content-Type': 'application/json;',
+        'Content-type': 'application/json;'
     }
   }).then(function (response) {
       if (response.ok) {
