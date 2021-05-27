@@ -413,7 +413,6 @@ let dealCards = function() {
   // Update API
   fetch('https://jsonkeeper.com/b/348B', {
     method: 'PUT',
-    credentials: 'same-origin',
     body: JSON.stringify(currentGameState),
     headers: {
         'Content-type': 'application/json;'
