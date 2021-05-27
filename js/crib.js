@@ -416,7 +416,9 @@ let dealCards = function() {
     mode: 'same-origin',
     body: JSON.stringify(currentGameState),
     headers: {
-        'Content-type': 'application/json;'
+        'Content-type': 'application/json;',
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Methods': '*'
     }
   }).then(function (response) {
       if (response.ok) {
