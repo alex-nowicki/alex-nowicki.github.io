@@ -5,40 +5,40 @@
     "score": 0,
     "hand": [
       {
-        "id": 17,
-        "suit": "diamond",
-        "rank": 4,
-        "value": 4
+        "id": 3,
+        "suit": "club",
+        "rank": 3,
+        "value": 3
       },
       {
-        "id": 21,
-        "suit": "diamond",
-        "rank": 8,
-        "value": 8
+        "id": 42,
+        "suit": "spade",
+        "rank": 3,
+        "value": 3
       },
       {
-        "id": 26,
-        "suit": "diamond",
-        "rank": 13,
+        "id": 37,
+        "suit": "heart",
+        "rank": 11,
         "value": 10
       },
       {
-        "id": 20,
+        "id": 23,
         "suit": "diamond",
-        "rank": 7,
-        "value": 7
+        "rank": 10,
+        "value": 10
       },
       {
-        "id": 12,
-        "suit": "club",
+        "id": 38,
+        "suit": "heart",
         "rank": 12,
         "value": 10
       },
       {
-        "id": 4,
-        "suit": "club",
-        "rank": 4,
-        "value": 4
+        "id": 28,
+        "suit": "heart",
+        "rank": 2,
+        "value": 2
       }
     ],
     "crib": [],
@@ -51,22 +51,16 @@
     "score": 0,
     "hand": [
       {
-        "id": 52,
-        "suit": "spade",
-        "rank": 13,
-        "value": 10
+        "id": 29,
+        "suit": "heart",
+        "rank": 3,
+        "value": 3
       },
       {
-        "id": 47,
-        "suit": "spade",
-        "rank": 8,
-        "value": 8
-      },
-      {
-        "id": 19,
-        "suit": "diamond",
-        "rank": 6,
-        "value": 6
+        "id": 4,
+        "suit": "club",
+        "rank": 4,
+        "value": 4
       },
       {
         "id": 49,
@@ -75,16 +69,22 @@
         "value": 10
       },
       {
-        "id": 42,
-        "suit": "spade",
-        "rank": 3,
-        "value": 3
+        "id": 22,
+        "suit": "diamond",
+        "rank": 9,
+        "value": 9
       },
       {
-        "id": 6,
-        "suit": "club",
-        "rank": 6,
-        "value": 6
+        "id": 31,
+        "suit": "heart",
+        "rank": 5,
+        "value": 5
+      },
+      {
+        "id": 35,
+        "suit": "heart",
+        "rank": 9,
+        "value": 9
       }
     ],
     "crib": [],
