@@ -10,6 +10,12 @@
           "suit": "spade",
           "rank": 5,
           "value": 5
+        },
+        {
+          "id": 16,
+          "suit": "diamond",
+          "rank": 3,
+          "value": 3
         }
       ],
       "discard": [],
@@ -28,6 +34,12 @@
           "suit": "heart",
           "rank": 5,
           "value": 2
+        },
+        {
+          "id": 49,
+          "suit": "spade",
+          "rank": 10,
+          "value": 10
         }
       ],
       "discard": [],
