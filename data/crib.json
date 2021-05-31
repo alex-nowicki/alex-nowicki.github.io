@@ -22,6 +22,12 @@
           "suit": "heart",
           "rank": 12,
           "value": 10
+        },
+        {
+          "id": 1,
+          "suit": "club",
+          "rank": 1,
+          "value": 1
         }
       ],
       "discard": [],
@@ -52,7 +58,8 @@
           "suit": "spade",
           "rank": 8,
           "value": 8
-        }
+        },
+        null
       ],
       "discard": [],
       "dealer": true,
