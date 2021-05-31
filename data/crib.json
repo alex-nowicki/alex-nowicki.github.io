@@ -6,7 +6,7 @@
       "hand": [],
       "play": [],
       "discard": [],
-      "dealer": true,
+      "dealer": false,
       "wins": 0,
       "loses": 0,
       "skunks": 0
@@ -27,5 +27,5 @@
   "crib": [],
   "starter": {},
   "playTally": 0,
-  "phase": "deal"
+  "phase": "new"
 }
