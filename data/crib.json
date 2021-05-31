@@ -41,7 +41,14 @@
           "value": 5
         }
       ],
-      "play": [],
+      "play": [
+        {
+          "id": 15,
+          "suit": "diamond",
+          "rank": 2,
+          "value": 2
+        }
+      ],
       "discard": [],
       "dealer": false,
       "wins": 0,
@@ -89,7 +96,14 @@
           "value": 5
         }
       ],
-      "play": [],
+      "play": [
+        {
+          "id": 47,
+          "suit": "spade",
+          "rank": 8,
+          "value": 8
+        }
+      ],
       "discard": [],
       "dealer": false,
       "wins": 0,
