@@ -4,7 +4,14 @@
       "name": "Player 1",
       "score": 0,
       "hand": [],
-      "play": [],
+      "play": [
+        {
+          "id": 44,
+          "suit": "spade",
+          "rank": 5,
+          "value": 5
+        }
+      ],
       "discard": [],
       "dealer": false,
       "wins": 0,
@@ -15,7 +22,14 @@
       "name": "Player 2",
       "score": 0,
       "hand": [],
-      "play": [],
+      "play": [
+        {
+          "id": 28,
+          "suit": "heart",
+          "rank": 5,
+          "value": 2
+        }
+      ],
       "discard": [],
       "dealer": false,
       "wins": 0,
