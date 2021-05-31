@@ -22,6 +22,12 @@
           "suit": "spade",
           "rank": 2,
           "value": 2
+        },
+        {
+          "id": 14,
+          "suit": "diamond",
+          "rank": 1,
+          "value": 1
         }
       ],
       "discard": [],
@@ -47,7 +53,13 @@
           "rank": 1,
           "value": 1
         },
-        null
+        null,
+        {
+          "id": 49,
+          "suit": "spade",
+          "rank": 10,
+          "value": 10
+        }
       ],
       "discard": [],
       "dealer": true,
