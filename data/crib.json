@@ -6,9 +6,9 @@
       "hand": [],
       "play": [
         {
-          "id": 47,
-          "suit": "spade",
-          "rank": 8,
+          "id": 21,
+          "suit": "diamond",
+          "rank": 11,
           "value": 8
         }
       ],
@@ -24,10 +24,10 @@
       "hand": [],
       "play": [
         {
-          "id": 44,
-          "suit": "spade",
-          "rank": 8,
-          "value": 5
+          "id": 12,
+          "suit": "club",
+          "rank": 12,
+          "value": 10
         }
       ],
       "discard": [],
