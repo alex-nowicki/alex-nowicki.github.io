@@ -28,6 +28,12 @@
           "suit": "club",
           "rank": 1,
           "value": 1
+        },
+        {
+          "id": 40,
+          "suit": "spade",
+          "rank": 1,
+          "value": 1
         }
       ],
       "discard": [],
@@ -59,7 +65,13 @@
           "rank": 8,
           "value": 8
         },
-        null
+        null,
+        {
+          "id": 52,
+          "suit": "spade",
+          "rank": 13,
+          "value": 10
+        }
       ],
       "discard": [],
       "dealer": true,
