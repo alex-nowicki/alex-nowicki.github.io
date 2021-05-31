@@ -40,6 +40,12 @@
           "suit": "heart",
           "rank": 2,
           "value": 2
+        },
+        {
+          "id": 5,
+          "suit": "club",
+          "rank": 5,
+          "value": 5
         }
       ],
       "discard": [],
@@ -83,6 +89,12 @@
           "suit": "diamond",
           "rank": 9,
           "value": 9
+        },
+        {
+          "id": 24,
+          "suit": "diamond",
+          "rank": 11,
+          "value": 10
         }
       ],
       "discard": [],
