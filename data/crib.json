@@ -41,14 +41,7 @@
           "value": 5
         }
       ],
-      "play": [
-        {
-          "id": 27,
-          "suit": "heart",
-          "rank": 1,
-          "value": 1
-        }
-      ],
+      "play": [],
       "discard": [],
       "dealer": false,
       "wins": 0,
@@ -96,14 +89,7 @@
           "value": 5
         }
       ],
-      "play": [
-        {
-          "id": 28,
-          "suit": "heart",
-          "rank": 2,
-          "value": 2
-        }
-      ],
+      "play": [],
       "discard": [],
       "dealer": false,
       "wins": 0,
