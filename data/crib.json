@@ -53,6 +53,12 @@
           "suit": "diamond",
           "rank": 7,
           "value": 7
+        },
+        {
+          "id": 14,
+          "suit": "diamond",
+          "rank": 1,
+          "value": 1
         }
       ],
       "discard": [],
@@ -114,6 +120,12 @@
           "suit": "spade",
           "rank": 3,
           "value": 3
+        },
+        {
+          "id": 46,
+          "suit": "spade",
+          "rank": 7,
+          "value": 7
         }
       ],
       "discard": [],
