@@ -51,12 +51,6 @@
           "suit": "heart",
           "rank": 2,
           "value": 2
-        },
-        {
-          "id": 34,
-          "suit": "heart",
-          "rank": 8,
-          "value": 8
         }
       ],
       "play": [
@@ -65,6 +59,12 @@
           "suit": "heart",
           "rank": 3,
           "value": 3
+        },
+        {
+          "id": 34,
+          "suit": "heart",
+          "rank": 8,
+          "value": 8
         }
       ],
       "discard": [],
@@ -102,6 +102,6 @@
     }
   ],
   "starter": {},
-  "playTally": 3,
+  "playTally": 11,
   "phase": "play"
 }
