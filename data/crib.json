@@ -339,7 +339,14 @@
       "value": 10
     }
   ],
-  "crib": [],
+  "crib": [
+    {
+      "id": 7,
+      "suit": "club",
+      "rank": 7,
+      "value": 7
+    }
+  ],
   "starter": {},
   "playTally": 0,
   "phase": "crib"
