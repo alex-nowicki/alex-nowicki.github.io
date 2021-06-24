@@ -39,14 +39,7 @@
     {
       "name": "Player 2",
       "score": 0,
-      "hand": [
-        {
-          "id": 28,
-          "suit": "heart",
-          "rank": 2,
-          "value": 2
-        }
-      ],
+      "hand": [],
       "play": [
         {
           "id": 29,
@@ -65,6 +58,12 @@
           "suit": "diamond",
           "rank": 7,
           "value": 7
+        },
+        {
+          "id": 28,
+          "suit": "heart",
+          "rank": 2,
+          "value": 2
         }
       ],
       "discard": [],
@@ -102,6 +101,6 @@
     }
   ],
   "starter": {},
-  "playTally": 18,
+  "playTally": 20,
   "phase": "play"
 }
