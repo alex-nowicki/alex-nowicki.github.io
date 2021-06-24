@@ -2,7 +2,7 @@
   "players": [
     {
       "name": "Player 1",
-      "score": 0,
+      "score": 1,
       "hand": [
         {
           "id": 4,
@@ -104,6 +104,6 @@
   "tally": 31,
   "dealer": 1,
   "turn": 0,
-  "go": 0,
+  "go": 1,
   "phase": "play"
 }
