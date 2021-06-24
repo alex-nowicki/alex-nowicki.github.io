@@ -57,7 +57,9 @@
           "suit": "diamond",
           "rank": 10,
           "value": 10
-        },
+        }
+      ],
+      "play": [
         {
           "id": 25,
           "suit": "diamond",
@@ -65,7 +67,6 @@
           "value": 10
         }
       ],
-      "play": [],
       "discard": [],
       "wins": 0,
       "loses": 0,
@@ -100,9 +101,9 @@
     }
   ],
   "starter": {},
-  "tally": 7,
+  "tally": 17,
   "dealer": 1,
-  "turn": 1,
+  "turn": 0,
   "go": null,
   "phase": "play"
 }
