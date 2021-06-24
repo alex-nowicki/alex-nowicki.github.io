@@ -345,6 +345,12 @@
       "suit": "club",
       "rank": 7,
       "value": 7
+    },
+    {
+      "id": 20,
+      "suit": "diamond",
+      "rank": 7,
+      "value": 7
     }
   ],
   "starter": {},
