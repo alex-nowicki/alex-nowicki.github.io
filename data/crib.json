@@ -53,19 +53,20 @@
           "value": 4
         },
         {
-          "id": 28,
-          "suit": "heart",
-          "rank": 2,
-          "value": 2
-        },
-        {
           "id": 35,
           "suit": "heart",
           "rank": 9,
           "value": 9
         }
       ],
-      "play": [],
+      "play": [
+        {
+          "id": 28,
+          "suit": "heart",
+          "rank": 2,
+          "value": 2
+        }
+      ],
       "discard": [],
       "dealer": false,
       "wins": 0,
@@ -101,6 +102,6 @@
     }
   ],
   "starter": {},
-  "playTally": 0,
+  "playTally": "02",
   "phase": "play"
 }
