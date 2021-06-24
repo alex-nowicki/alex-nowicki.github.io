@@ -41,12 +41,6 @@
       "score": 0,
       "hand": [
         {
-          "id": 20,
-          "suit": "diamond",
-          "rank": 7,
-          "value": 7
-        },
-        {
           "id": 28,
           "suit": "heart",
           "rank": 2,
@@ -65,6 +59,12 @@
           "suit": "heart",
           "rank": 8,
           "value": 8
+        },
+        {
+          "id": 20,
+          "suit": "diamond",
+          "rank": 7,
+          "value": 7
         }
       ],
       "discard": [],
@@ -102,6 +102,6 @@
     }
   ],
   "starter": {},
-  "playTally": 11,
+  "playTally": 18,
   "phase": "play"
 }
