@@ -15,12 +15,6 @@
           "suit": "heart",
           "rank": 6,
           "value": 6
-        },
-        {
-          "id": 49,
-          "suit": "spade",
-          "rank": 10,
-          "value": 10
         }
       ],
       "play": [
@@ -29,6 +23,12 @@
           "suit": "heart",
           "rank": 9,
           "value": 9
+        },
+        {
+          "id": 49,
+          "suit": "spade",
+          "rank": 10,
+          "value": 10
         }
       ],
       "discard": [],
@@ -101,9 +101,9 @@
     }
   ],
   "starter": {},
-  "tally": 19,
+  "tally": 29,
   "dealer": 1,
-  "turn": 0,
+  "turn": 1,
   "go": null,
   "phase": "play"
 }
