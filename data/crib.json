@@ -4,7 +4,14 @@
       "name": "Player 1",
       "score": 0,
       "hand": [],
-      "play": [],
+      "play": [
+        {
+          "id": 42,
+          "suit": "spade",
+          "rank": 3,
+          "value": 3
+        }
+      ],
       "discard": [],
       "wins": 0,
       "loses": 0,
@@ -14,7 +21,14 @@
       "name": "Player 2",
       "score": 0,
       "hand": [],
-      "play": [],
+      "play": [
+        {
+          "id": 43,
+          "suit": "spade",
+          "rank": 4,
+          "value": 4
+        }
+      ],
       "discard": [],
       "wins": 0,
       "loses": 0,
@@ -26,7 +40,7 @@
   "starter": {},
   "tally": 0,
   "dealer": 0,
-  "turn": 0,
+  "turn": 1,
   "go": 0,
-  "phase": "new"
+  "phase": "deal"
 }
