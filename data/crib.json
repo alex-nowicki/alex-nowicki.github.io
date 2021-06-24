@@ -65,12 +65,6 @@
           "value": 8
         },
         {
-          "id": 15,
-          "suit": "diamond",
-          "rank": 2,
-          "value": 2
-        },
-        {
           "id": 25,
           "suit": "diamond",
           "rank": 12,
@@ -98,7 +92,14 @@
     }
   ],
   "deck": [],
-  "crib": [],
+  "crib": [
+    {
+      "id": 15,
+      "suit": "diamond",
+      "rank": 2,
+      "value": 2
+    }
+  ],
   "starter": {},
   "playTally": 0,
   "phase": "crib"
