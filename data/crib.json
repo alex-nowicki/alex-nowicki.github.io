@@ -17,28 +17,22 @@
           "value": 6
         }
       ],
-      "play": [
+      "play": [],
+      "discard": [
         {
           "id": 5,
           "suit": "club",
           "rank": 5,
           "value": 5
-        },
-        {
-          "id": 36,
-          "suit": "heart",
-          "rank": 10,
-          "value": 10
         }
       ],
-      "discard": [],
       "wins": 0,
       "loses": 0,
       "skunks": 0
     },
     {
       "name": "Player 2",
-      "score": 0,
+      "score": 1,
       "hand": [
         {
           "id": 19,
@@ -67,7 +61,20 @@
           "value": 10
         }
       ],
-      "discard": [],
+      "discard": [
+        {
+          "id": 31,
+          "suit": "heart",
+          "rank": 5,
+          "value": 5
+        },
+        {
+          "id": 11,
+          "suit": "club",
+          "rank": 11,
+          "value": 10
+        }
+      ],
       "wins": 0,
       "loses": 0,
       "skunks": 0
