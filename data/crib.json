@@ -29,12 +29,6 @@
           "value": 3
         },
         {
-          "id": 36,
-          "suit": "heart",
-          "rank": 10,
-          "value": 10
-        },
-        {
           "id": 39,
           "suit": "heart",
           "rank": 13,
@@ -51,12 +45,6 @@
       "name": "Player 2",
       "score": 0,
       "hand": [
-        {
-          "id": 21,
-          "suit": "diamond",
-          "rank": 8,
-          "value": 8
-        },
         {
           "id": 51,
           "suit": "spade",
@@ -96,7 +84,20 @@
     }
   ],
   "deck": [],
-  "crib": [],
+  "crib": [
+    {
+      "id": 36,
+      "suit": "heart",
+      "rank": 10,
+      "value": 10
+    },
+    {
+      "id": 21,
+      "suit": "diamond",
+      "rank": 8,
+      "value": 8
+    }
+  ],
   "starter": {},
   "tally": 0,
   "dealer": 1,
