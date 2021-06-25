@@ -6,10 +6,10 @@
       "hand": [],
       "play": [
         {
-          "id": 17,
-          "suit": "diamond",
-          "rank": 4,
-          "value": 4
+          "id": 8,
+          "suit": "club",
+          "rank": 8,
+          "value": 8
         }
       ],
       "discard": [],
@@ -23,10 +23,10 @@
       "hand": [],
       "play": [
         {
-          "id": 43,
-          "suit": "spade",
-          "rank": 4,
-          "value": 4
+          "id": 2,
+          "suit": "club",
+          "rank": 2,
+          "value": 2
         }
       ],
       "discard": [],
@@ -39,8 +39,8 @@
   "crib": [],
   "starter": {},
   "tally": 0,
-  "dealer": null,
-  "turn": null,
+  "dealer": 1,
+  "turn": 0,
   "go": null,
-  "phase": "new"
+  "phase": "deal"
 }
