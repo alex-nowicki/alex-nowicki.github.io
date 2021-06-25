@@ -11,12 +11,6 @@
           "value": 1
         },
         {
-          "id": 44,
-          "suit": "spade",
-          "rank": 5,
-          "value": 5
-        },
-        {
           "id": 16,
           "suit": "diamond",
           "rank": 3,
@@ -27,6 +21,12 @@
         {
           "id": 5,
           "suit": "club",
+          "rank": 5,
+          "value": 5
+        },
+        {
+          "id": 44,
+          "suit": "spade",
           "rank": 5,
           "value": 5
         }
@@ -101,9 +101,9 @@
     }
   ],
   "starter": {},
-  "tally": 15,
+  "tally": 20,
   "dealer": 1,
-  "turn": 0,
+  "turn": 1,
   "go": null,
   "phase": "play"
 }
