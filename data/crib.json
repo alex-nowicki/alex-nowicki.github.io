@@ -46,12 +46,6 @@
           "value": 7
         },
         {
-          "id": 43,
-          "suit": "spade",
-          "rank": 4,
-          "value": 4
-        },
-        {
           "id": 33,
           "suit": "heart",
           "rank": 7,
@@ -64,7 +58,14 @@
           "value": 7
         }
       ],
-      "play": [],
+      "play": [
+        {
+          "id": 43,
+          "suit": "spade",
+          "rank": 4,
+          "value": 4
+        }
+      ],
       "discard": [],
       "wins": 0,
       "loses": 0,
@@ -98,11 +99,18 @@
       "value": 10
     }
   ],
-  "play": [],
+  "play": [
+    {
+      "id": 43,
+      "suit": "spade",
+      "rank": 4,
+      "value": 4
+    }
+  ],
   "starter": {},
-  "tally": 0,
+  "tally": 4,
   "dealer": 0,
-  "turn": 1,
+  "turn": 0,
   "go": null,
   "phase": "play"
 }
