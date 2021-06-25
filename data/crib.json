@@ -2,14 +2,8 @@
   "players": [
     {
       "name": "Player 1",
-      "score": 0,
+      "score": 2,
       "hand": [
-        {
-          "id": 17,
-          "suit": "diamond",
-          "rank": 4,
-          "value": 4
-        },
         {
           "id": 28,
           "suit": "heart",
@@ -17,7 +11,8 @@
           "value": 2
         }
       ],
-      "play": [
+      "play": [],
+      "discard": [
         {
           "id": 34,
           "suit": "heart",
@@ -29,9 +24,14 @@
           "suit": "club",
           "rank": 13,
           "value": 10
+        },
+        {
+          "id": 17,
+          "suit": "diamond",
+          "rank": 4,
+          "value": 4
         }
       ],
-      "discard": [],
       "wins": 0,
       "loses": 0,
       "skunks": 0
@@ -53,7 +53,8 @@
           "value": 10
         }
       ],
-      "play": [
+      "play": [],
+      "discard": [
         {
           "id": 47,
           "suit": "spade",
@@ -67,7 +68,6 @@
           "value": 1
         }
       ],
-      "discard": [],
       "wins": 0,
       "loses": 0,
       "skunks": 0
@@ -101,7 +101,7 @@
     }
   ],
   "starter": {},
-  "tally": 27,
+  "tally": 0,
   "dealer": 1,
   "turn": 0,
   "go": null,
