@@ -5,12 +5,6 @@
       "score": 0,
       "hand": [
         {
-          "id": 30,
-          "suit": "heart",
-          "rank": 4,
-          "value": 4
-        },
-        {
           "id": 26,
           "suit": "diamond",
           "rank": 13,
@@ -64,12 +58,6 @@
           "value": 2
         },
         {
-          "id": 34,
-          "suit": "heart",
-          "rank": 8,
-          "value": 8
-        },
-        {
           "id": 32,
           "suit": "heart",
           "rank": 6,
@@ -96,7 +84,20 @@
     }
   ],
   "deck": [],
-  "crib": [],
+  "crib": [
+    {
+      "id": 34,
+      "suit": "heart",
+      "rank": 8,
+      "value": 8
+    },
+    {
+      "id": 30,
+      "suit": "heart",
+      "rank": 4,
+      "value": 4
+    }
+  ],
   "starter": {},
   "tally": 0,
   "dealer": 1,
