@@ -5,12 +5,6 @@
       "score": 0,
       "hand": [
         {
-          "id": 3,
-          "suit": "club",
-          "rank": 3,
-          "value": 3
-        },
-        {
           "id": 49,
           "suit": "spade",
           "rank": 10,
@@ -68,12 +62,6 @@
           "suit": "heart",
           "rank": 7,
           "value": 7
-        },
-        {
-          "id": 1,
-          "suit": "club",
-          "rank": 1,
-          "value": 1
         }
       ],
       "play": [],
@@ -96,6 +84,18 @@
       "suit": "spade",
       "rank": 5,
       "value": 5
+    },
+    {
+      "id": 1,
+      "suit": "club",
+      "rank": 1,
+      "value": 1
+    },
+    {
+      "id": 3,
+      "suit": "club",
+      "rank": 3,
+      "value": 3
     }
   ],
   "play": [],
@@ -104,5 +104,5 @@
   "dealer": 1,
   "turn": 0,
   "go": null,
-  "phase": "crib"
+  "phase": "play"
 }
