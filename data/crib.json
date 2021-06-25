@@ -46,12 +46,6 @@
           "value": 9
         },
         {
-          "id": 9,
-          "suit": "club",
-          "rank": 9,
-          "value": 9
-        },
-        {
           "id": 23,
           "suit": "diamond",
           "rank": 10,
@@ -64,7 +58,14 @@
           "value": 6
         }
       ],
-      "play": [],
+      "play": [
+        {
+          "id": 9,
+          "suit": "club",
+          "rank": 9,
+          "value": 9
+        }
+      ],
       "discard": [],
       "wins": 0,
       "loses": 0,
@@ -99,9 +100,9 @@
     }
   ],
   "starter": {},
-  "tally": 0,
+  "tally": 9,
   "dealer": 0,
-  "turn": 1,
+  "turn": 0,
   "go": null,
   "phase": "play"
 }
