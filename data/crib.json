@@ -5,12 +5,6 @@
       "score": 0,
       "hand": [
         {
-          "id": 31,
-          "suit": "heart",
-          "rank": 5,
-          "value": 5
-        },
-        {
           "id": 34,
           "suit": "heart",
           "rank": 8,
@@ -70,12 +64,6 @@
           "value": 3
         },
         {
-          "id": 1,
-          "suit": "club",
-          "rank": 1,
-          "value": 1
-        },
-        {
           "id": 9,
           "suit": "club",
           "rank": 9,
@@ -96,7 +84,20 @@
     }
   ],
   "deck": [],
-  "crib": [],
+  "crib": [
+    {
+      "id": 1,
+      "suit": "club",
+      "rank": 1,
+      "value": 1
+    },
+    {
+      "id": 31,
+      "suit": "heart",
+      "rank": 5,
+      "value": 5
+    }
+  ],
   "play": [],
   "starter": {},
   "tally": 0,
