@@ -17,12 +17,6 @@
           "value": 9
         },
         {
-          "id": 12,
-          "suit": "club",
-          "rank": 12,
-          "value": 10
-        },
-        {
           "id": 17,
           "suit": "diamond",
           "rank": 4,
@@ -45,12 +39,6 @@
       "name": "Player 2",
       "score": 0,
       "hand": [
-        {
-          "id": 4,
-          "suit": "club",
-          "rank": 4,
-          "value": 4
-        },
         {
           "id": 11,
           "suit": "club",
@@ -96,6 +84,18 @@
       "suit": "heart",
       "rank": 1,
       "value": 1
+    },
+    {
+      "id": 12,
+      "suit": "club",
+      "rank": 12,
+      "value": 10
+    },
+    {
+      "id": 4,
+      "suit": "club",
+      "rank": 4,
+      "value": 4
     }
   ],
   "play": [],
@@ -104,5 +104,5 @@
   "dealer": 1,
   "turn": 0,
   "go": null,
-  "phase": "crib"
+  "phase": "play"
 }
