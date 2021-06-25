@@ -46,12 +46,6 @@
           "value": 9
         },
         {
-          "id": 34,
-          "suit": "heart",
-          "rank": 8,
-          "value": 8
-        },
-        {
           "id": 30,
           "suit": "heart",
           "rank": 4,
@@ -64,7 +58,14 @@
           "value": 4
         }
       ],
-      "play": [],
+      "play": [
+        {
+          "id": 34,
+          "suit": "heart",
+          "rank": 8,
+          "value": 8
+        }
+      ],
       "discard": [],
       "wins": 0,
       "loses": 0,
@@ -98,11 +99,18 @@
       "value": 8
     }
   ],
-  "play": [],
+  "play": [
+    {
+      "id": 34,
+      "suit": "heart",
+      "rank": 8,
+      "value": 8
+    }
+  ],
   "starter": {},
-  "tally": 0,
+  "tally": 8,
   "dealer": 0,
-  "turn": 1,
+  "turn": 0,
   "go": null,
   "phase": "play"
 }
