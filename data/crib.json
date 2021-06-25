@@ -3,15 +3,45 @@
     {
       "name": "Player 1",
       "score": 0,
-      "hand": [],
-      "play": [
+      "hand": [
         {
-          "id": 51,
-          "suit": "spade",
+          "id": 25,
+          "suit": "diamond",
           "rank": 12,
           "value": 10
+        },
+        {
+          "id": 13,
+          "suit": "club",
+          "rank": 13,
+          "value": 10
+        },
+        {
+          "id": 2,
+          "suit": "club",
+          "rank": 2,
+          "value": 2
+        },
+        {
+          "id": 9,
+          "suit": "club",
+          "rank": 9,
+          "value": 9
+        },
+        {
+          "id": 39,
+          "suit": "heart",
+          "rank": 13,
+          "value": 10
+        },
+        {
+          "id": 5,
+          "suit": "club",
+          "rank": 5,
+          "value": 5
         }
       ],
+      "play": [],
       "discard": [],
       "wins": 0,
       "loses": 0,
@@ -20,15 +50,45 @@
     {
       "name": "Player 2",
       "score": 0,
-      "hand": [],
-      "play": [
+      "hand": [
         {
-          "id": 39,
+          "id": 20,
+          "suit": "diamond",
+          "rank": 7,
+          "value": 7
+        },
+        {
+          "id": 40,
+          "suit": "spade",
+          "rank": 1,
+          "value": 1
+        },
+        {
+          "id": 43,
+          "suit": "spade",
+          "rank": 4,
+          "value": 4
+        },
+        {
+          "id": 14,
+          "suit": "diamond",
+          "rank": 1,
+          "value": 1
+        },
+        {
+          "id": 33,
           "suit": "heart",
-          "rank": 13,
-          "value": 10
+          "rank": 7,
+          "value": 7
+        },
+        {
+          "id": 7,
+          "suit": "club",
+          "rank": 7,
+          "value": 7
         }
       ],
+      "play": [],
       "discard": [],
       "wins": 0,
       "loses": 0,
@@ -43,5 +103,5 @@
   "dealer": 0,
   "turn": 1,
   "go": null,
-  "phase": "deal"
+  "phase": "crib"
 }
