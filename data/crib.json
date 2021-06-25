@@ -17,19 +17,20 @@
           "value": 2
         },
         {
-          "id": 32,
-          "suit": "heart",
-          "rank": 6,
-          "value": 6
-        },
-        {
           "id": 1,
           "suit": "club",
           "rank": 1,
           "value": 1
         }
       ],
-      "play": [],
+      "play": [
+        {
+          "id": 32,
+          "suit": "heart",
+          "rank": 6,
+          "value": 6
+        }
+      ],
       "discard": [],
       "wins": 0,
       "loses": 0,
@@ -100,9 +101,9 @@
     }
   ],
   "starter": {},
-  "tally": 10,
+  "tally": 16,
   "dealer": 0,
-  "turn": 0,
+  "turn": 1,
   "go": null,
   "phase": "play"
 }
