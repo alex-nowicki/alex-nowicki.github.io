@@ -45,7 +45,9 @@
           "suit": "spade",
           "rank": 4,
           "value": 4
-        },
+        }
+      ],
+      "play": [
         {
           "id": 47,
           "suit": "spade",
@@ -53,7 +55,6 @@
           "value": 8
         }
       ],
-      "play": [],
       "discard": [
         {
           "id": 36,
@@ -101,9 +102,9 @@
     }
   ],
   "starter": {},
-  "tally": 0,
+  "tally": 8,
   "dealer": 0,
-  "turn": 1,
+  "turn": 0,
   "go": 1,
   "phase": "play"
 }
