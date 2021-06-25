@@ -101,7 +101,7 @@
   "starter": {},
   "tally": 0,
   "dealer": 1,
-  "turn": 0,
+  "turn": 1,
   "go": null,
   "phase": "play"
 }
