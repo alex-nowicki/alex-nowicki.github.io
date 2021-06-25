@@ -17,19 +17,20 @@
           "value": 8
         },
         {
-          "id": 7,
-          "suit": "club",
-          "rank": 7,
-          "value": 7
-        },
-        {
           "id": 28,
           "suit": "heart",
           "rank": 2,
           "value": 2
         }
       ],
-      "play": [],
+      "play": [
+        {
+          "id": 7,
+          "suit": "club",
+          "rank": 7,
+          "value": 7
+        }
+      ],
       "discard": [],
       "wins": 0,
       "loses": 0,
@@ -99,9 +100,9 @@
     }
   ],
   "starter": {},
-  "tally": 0,
+  "tally": 7,
   "dealer": 1,
-  "turn": 0,
+  "turn": 1,
   "go": null,
   "phase": "play"
 }
