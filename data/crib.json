@@ -37,19 +37,13 @@
     },
     {
       "name": "Player 2",
-      "score": 0,
+      "score": 1,
       "hand": [
         {
           "id": 27,
           "suit": "heart",
           "rank": 1,
           "value": 1
-        },
-        {
-          "id": 43,
-          "suit": "spade",
-          "rank": 4,
-          "value": 4
         },
         {
           "id": 28,
@@ -64,7 +58,14 @@
           "value": 9
         }
       ],
-      "play": [],
+      "play": [
+        {
+          "id": 43,
+          "suit": "spade",
+          "rank": 4,
+          "value": 4
+        }
+      ],
       "discard": [],
       "wins": 0,
       "loses": 0,
@@ -98,11 +99,18 @@
       "value": 3
     }
   ],
-  "play": [],
+  "play": [
+    {
+      "id": 43,
+      "suit": "spade",
+      "rank": 4,
+      "value": 4
+    }
+  ],
   "starter": {},
-  "tally": 0,
+  "tally": 4,
   "dealer": 0,
-  "turn": 1,
+  "turn": 0,
   "go": null,
   "phase": "play"
 }
