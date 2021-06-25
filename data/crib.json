@@ -40,12 +40,6 @@
       "score": 0,
       "hand": [
         {
-          "id": 51,
-          "suit": "spade",
-          "rank": 12,
-          "value": 10
-        },
-        {
           "id": 24,
           "suit": "diamond",
           "rank": 11,
@@ -58,7 +52,14 @@
           "value": 10
         }
       ],
-      "play": [],
+      "play": [
+        {
+          "id": 51,
+          "suit": "spade",
+          "rank": 12,
+          "value": 10
+        }
+      ],
       "discard": [
         {
           "id": 11,
@@ -99,9 +100,16 @@
       "value": 10
     }
   ],
-  "play": [],
+  "play": [
+    {
+      "id": 51,
+      "suit": "spade",
+      "rank": 12,
+      "value": 10
+    }
+  ],
   "starter": {},
-  "tally": 0,
+  "tally": 10,
   "dealer": 1,
   "turn": 1,
   "go": null,
