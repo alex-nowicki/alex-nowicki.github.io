@@ -11,12 +11,6 @@
           "value": 3
         },
         {
-          "id": 21,
-          "suit": "diamond",
-          "rank": 8,
-          "value": 8
-        },
-        {
           "id": 28,
           "suit": "heart",
           "rank": 2,
@@ -29,6 +23,12 @@
           "suit": "club",
           "rank": 7,
           "value": 7
+        },
+        {
+          "id": 21,
+          "suit": "diamond",
+          "rank": 8,
+          "value": 8
         }
       ],
       "discard": [],
@@ -101,9 +101,9 @@
     }
   ],
   "starter": {},
-  "tally": 13,
+  "tally": 21,
   "dealer": 1,
-  "turn": 0,
+  "turn": 1,
   "go": null,
   "phase": "play"
 }
